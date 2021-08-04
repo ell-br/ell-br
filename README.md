@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ell-br (Ell), I've been self-teaching Front-End Web Dev for 6 months.
-- 👀 I’m interested in intersections of design and tech, and making basic JS games in web.
-- 🌱 I’m currently learning jQuery and JavaScript animations.
-- 💞️ I’m looking to contribute to front-end open-source projects using HTML/CSS/JS stack.
+- 👋 Hi, I’m @ell-br (Ell), I've been self-teaching Web Development for almost a year.
+- 👀 I’m interested in intersections of design and tech, and making easy-to-use web apps.
+- 🌱 I’m currently learning about data structures in Python.
+- 💞️ I’m looking to contribute to open source projects using HTML/CSS/JS/jQuery or Python.
 - 📫 Contact me through my profile and let's collaborate! 
 
 <!---
