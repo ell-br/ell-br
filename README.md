@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ell-br (Ell), I've been self-teaching Web Development for almost a year.
 - 👀 I’m interested in intersections of design and tech, and making easy-to-use web apps.
-- 🌱 I’m currently learning about data structures in Python.
+- 🌱 I’m currently learning about automation with Python and basic Command Line.
 - 💞️ I’m looking to contribute to open source projects using HTML/CSS/JS/jQuery or Python.
 - 📫 Contact me through my profile and let's collaborate! 
 
