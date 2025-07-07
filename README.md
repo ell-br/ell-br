@@ -1,4 +1,4 @@
-Full-Stack Nanodegree Student @ CodeFirst:Girls.
+Software Engineer II @ Skyscanner
 
 <!---
 ell-br/ell-br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
